@@ -1,0 +1,2 @@
+Earth texture source: https://threejs.org/examples/textures/planets/earth_atmos_2048.jpg
+Used for the decorative rotating Earth illustration.
